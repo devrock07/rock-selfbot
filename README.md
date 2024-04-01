@@ -1,4 +1,4 @@
-# Rock-Selfbot
+# Rock-Selfbot 1.0
 
 This project demonstrates the usage of a Discord selfbot using discord.js-selfbot-v13 library. It includes various commands such as fetching cryptocurrency prices, checking user balances, sending messages with custom styles, and more. 
 # I am not responsible for any harm or damage caused by the usage of this Discord selfbot.
