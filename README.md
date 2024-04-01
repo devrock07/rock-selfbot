@@ -11,8 +11,8 @@ Setup Instructions:
 
 🚀 **Help - Available Commands** 🚀
 
-**addy**: 🔑 Sends your Litecoin (LTC) wallet address in a styled message with emojis.
-**avatar**: Displays the avatar of the mentioned user.
+//**addy**: 🔑 Sends your Litecoin (LTC) wallet address in a styled message with emojis.
+//**avatar**: Displays the avatar of the mentioned user.
 **bal**: 🔍 Checks the balance of a Litecoin (LTC) wallet address and its equivalent in USD and INR.
 **ban**: Bans a user from the server.
 **banner**: Displays the banner of the user.
