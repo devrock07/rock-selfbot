@@ -1,7 +1,7 @@
 # Rock-Selfbot
 
-This project demonstrates the usage of a Discord selfbot using discord.js-selfbot-v13 library. It includes various commands such as fetching cryptocurrency prices, checking user balances, sending messages with custom styles, and more. i am not responsible for harm or damage 
-
+This project demonstrates the usage of a Discord selfbot using discord.js-selfbot-v13 library. It includes various commands such as fetching cryptocurrency prices, checking user balances, sending messages with custom styles, and more. 
+# I am not responsible for any harm or damage caused by the usage of this Discord selfbot.
 Setup Instructions:
 1. Clone the repository to your local machine.
 2. Install the required dependencies using npm install.
