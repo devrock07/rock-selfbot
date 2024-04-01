@@ -1,0 +1,38 @@
+Discord Selfbot Setup Instructions
+==================================
+
+1. Configuring the `config.js` File:
+   ----------------------------------
+   The `config.js` file contains essential configuration parameters for the Discord selfbot. Follow the steps below to configure it:
+
+   a. Open the `config.js` file located in the root directory of the project.
+   b. Replace the placeholder values with your actual Discord bot token, prefix, and user IDs.
+
+      Example `config.js` file:
+      ```
+      module.exports = {
+          token: 'YOUR_DISCORD_BOT_TOKEN_HERE',
+          prefix: 'YOUR_COMMAND_PREFIX_HERE',
+          allowedUserIDs: ['YOUR_USER_ID_HERE', 'ANOTHER_USER_ID_HERE']
+      };
+      ```
+
+   c. Save the changes to the `config.js` file.
+
+2. Running the Code:
+   -------------------
+   Once you have configured the `config.js` file, you can run the Discord selfbot using Node.js. Follow the steps below to run the code:
+
+   a. Open your terminal or command prompt.
+   b. Navigate to the root directory of the project using the `cd` command.
+   c. Run the command `npm install` to install the required dependencies.
+   d. After installing dependencies, run the command `node index.js` to start the selfbot.
+   e. The selfbot should now be online and ready to use.
+
+3. Important Note:
+   -----------------
+   Selfbots are against Discord's Terms of Service. Ensure that you use selfbots responsibly and do not engage in activities that violate Discord's guidelines. Usage of selfbots may lead to account termination or other penalties from Discord.
+
+   By proceeding with the setup and usage of this selfbot, you acknowledge that you understand and accept the risks associated with using selfbots on Discord.
+
+For assistance or inquiries, feel free to contact the project author.
