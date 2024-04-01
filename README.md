@@ -11,31 +11,31 @@ Setup Instructions:
 
 🚀 **Help - Available Commands** 🚀
 
-//**addy**: 🔑 Sends your Litecoin (LTC) wallet address in a styled message with emojis.
-//**avatar**: Displays the avatar of the mentioned user.
-**bal**: 🔍 Checks the balance of a Litecoin (LTC) wallet address and its equivalent in USD and INR.
-**ban**: Bans a user from the server.
-**banner**: Displays the banner of the user.
-**c2i**: Converts an amount from USD to INR.
-**clear**: Delete messages off a channel
-**gayrate**: Rates how gay a user is.
-**gitsearch**: Searches GitHub for repositories.
-**gituser**: Retrieves information about a GitHub user.
-**guildicon**: Displays the guild icon.
-**hack**: Simulates a prank hack.
-**help**: Displays a list of available commands.
-**i2c**: Converts an amount from INR to USD.
-**iplookup**: Lookup information about an IP address.
-**kick**: Kicks a user from the server.
-**loverate**: Rates the compatibility of two mentioned users as lovers.
-**ltcprice**: 📈 Fetches the current price of Litecoin (LTC).
-**math**: Evaluates a mathematical expression.
-**setnickname**: Changes your own nickname.
-**ping**: Checks the bot's latency.
-**serverinfo**: Displays information about the server.
-**spam**: Spams a message multiple times.
-**status**: Sets the bot's status.
-**upi**: 💳 Pay Here (UPI) ID along with an image in a styled message with emojis.
+- **addy**: 🔑 Sends your Litecoin (LTC) wallet address in a styled message with emojis.
+- **avatar**: Displays the avatar of the mentioned user.
+- **bal**: 🔍 Checks the balance of a Litecoin (LTC) wallet address and its equivalent in USD and INR.
+- **ban**: Bans a user from the server.
+- **banner**: Displays the banner of the user.
+- **c2i**: Converts an amount from USD to INR.
+- **clear**: Delete messages off a channel
+- **gayrate**: Rates how gay a user is.
+- **gitsearch**: Searches GitHub for repositories.
+- **gituser**: Retrieves information about a GitHub user.
+- **guildicon**: Displays the guild icon.
+- **hack**: Simulates a prank hack.
+- **help**: Displays a list of available commands.
+- **i2c**: Converts an amount from INR to USD.
+- **iplookup**: Lookup information about an IP address.
+- **kick**: Kicks a user from the server.
+- **loverate**: Rates the compatibility of two mentioned users as lovers.
+- **ltcprice**: 📈 Fetches the current price of Litecoin (LTC).
+- **math**: Evaluates a mathematical expression.
+- **setnickname**: Changes your own nickname.
+- **ping**: Checks the bot's latency.
+- **serverinfo**: Displays information about the server.
+- **spam**: Spams a message multiple times.
+- **status**: Sets the bot's status.
+- **upi**: 💳 Pay Here (UPI) ID along with an image in a styled message with emojis.
 
 # 👨‍💻 *Created by devrock*
 
