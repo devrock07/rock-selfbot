@@ -37,14 +37,14 @@ module.exports = {
             const r = new Discord.RichPresence()
                 .setApplicationId('1200725210656145479') // Keep this as it is
                 .setType('STREAMING')
-                .setURL('https://www.twitch.tv/zenithsenpai') // Change if needed
+                .setURL('https://www.twitch.tv/') // Change if needed
                 .setState(status.name)
                 .setName(status.name)
                 .setDetails(status.details)
                 .setAssetsLargeImage(status.largeImageURL) // Change to status.largeImageURL
-                .setAssetsLargeText('devrock.exe') // Set as needed
-                .addButton('Youtube', 'https://www.youtube.com/@ZenithSenpai') // Add button name and URL
-                .addButton('Discord', 'https://discord.gg/Rcn5ZhPt9J'); // Add button name and URL
+                .setAssetsLargeText('D') // Set as needed
+                .addButton('Youtube', 'https://www.youtube.com/') // Add button name and URL
+                .addButton('Discord', 'https://discord.gg/'); // Add button name and URL
 
             client.user.setActivity(r);
 

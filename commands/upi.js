@@ -11,7 +11,7 @@ module.exports = {
      */
     async execute(channel, message, client, args) {
         // Replace 'YOUR_UPI_ID' with your actual UPI ID
-        const upiID = 'devrock@fam';
+        const upiID = 'test@lehobbit.dev';
 
         try {
             // Send the UPI ID as a message
