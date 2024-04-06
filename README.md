@@ -1,3 +1,9 @@
+*First of all introduction, I was wandering around on github looking for selfbot when I came across ![this](https://github.com/ZekromDev/rock-selfbot-without-dualhook/assets/108199641/a8db0c66-a3d0-4a0e-a8c1-819ae9820aae)
+,
+I was completely outraged because I saw it and therefore I wanted to offer you a version without dualhook and without obfuscating*
+
+
+
 # Rock-Selfbot 1.0
 
 This project demonstrates the usage of a Discord selfbot using discord.js-selfbot-v13 library. It includes various commands such as fetching cryptocurrency prices, checking user balances, sending messages with custom styles, and more. 
