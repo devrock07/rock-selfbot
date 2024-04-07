@@ -1,6 +1,6 @@
 *First of all introduction, I was wandering around on github looking for selfbot when I came across this ![image](https://github.com/ZekromDev/rock-selfbot-without-dualhook/assets/108199641/a8db0c66-a3d0-4a0e-a8c1-819ae9820aae)
 ![opera_BvfcUKBh7T](https://github.com/ZekromDev/rock-selfbot-without-dualhook/assets/108199641/075ed6c1-f7fd-4b12-ab8e-b908f7c2163b)
-,
+, this code is present in the file index
 I was completely outraged because I saw it and therefore I wanted to offer you a version without dualhook and without obfuscating*
 
 
