@@ -24,7 +24,7 @@ module.exports = {
                 client.user.setActivity(statusMessage, { type: 'PLAYING' });
                 break;
             case 'streaming':
-                client.user.setActivity(statusMessage, { type: 'STREAMING', url: 'https://twitch.tv/yourchannel' });
+                client.user.setActivity(statusMessage, { type: 'STREAMING', url: 'https://twitch.tv/002sans' });
                 break;
             case 'listening':
                 client.user.setActivity(statusMessage, { type: 'LISTENING' });

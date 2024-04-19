@@ -42,9 +42,9 @@ module.exports = {
                 .setName(status.name)
                 .setDetails(status.details)
                 .setAssetsLargeImage(status.largeImageURL) // Change to status.largeImageURL
-                .setAssetsLargeText('devrock.exe') // Set as needed
-                .addButton('Youtube', 'https://www.youtube.com/@ZenithSenpai') // Add button name and URL
-                .addButton('Discord', 'https://discord.gg/Rcn5ZhPt9J'); // Add button name and URL
+                .setAssetsLargeText('shit.exe') // Set as needed
+                //.addButton('Youtube', 'https://www.youtube.com/@ZenithSenpai') // Add button name and URL
+                //.addButton('Discord', 'https://discord.gg/Rcn5ZhPt9J'); // Add button name and URL
 
             client.user.setActivity(r);
 

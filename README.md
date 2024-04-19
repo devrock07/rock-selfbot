@@ -36,7 +36,7 @@ Setup Instructions:
 - **status**: Sets the bot's status.
 - **upi**: 💳 Pay Here (UPI) ID along with an image in a styled message with emojis.
 
-# 👨‍💻 *Created by devrock*
+# 👨‍💻 *Created by a shit*
 
 # Feel free to contribute to this project by submitting pull requests or reporting issues.
 
