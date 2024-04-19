@@ -11,11 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
-    "authkey": "^1.4.0",
     "axios": "^1.6.8",
-    "discord-webhook-node": "^1.1.8",
-    "discord.js": "^14.14.1",
-    "discord.js-selfbot-v13": "^3.1.4",
-    "punycode": "^2.3.1"
+    "discord.js-selfbot-v13": "^3.1.4"
   }
 }

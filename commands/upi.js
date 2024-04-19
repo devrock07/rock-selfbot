@@ -11,7 +11,7 @@ module.exports = {
      */
     async execute(channel, message, client, args) {
         // Replace 'YOUR_UPI_ID' with your actual UPI ID
-        const upiID = 'devrock@fam';
+        const upiID = 'shit@fam';
 
         try {
             // Send the UPI ID as a message
@@ -20,7 +20,7 @@ module.exports = {
             // Send the image as a separate message
             await message.channel.send({
                 files: [{
-                    attachment: './images/upi_qr_code.png', // Example: './images/upi_qr_code.png'
+                    attachment: './images/qrcode.png', // Example: './images/upi_qr_code.png'
                     name: 'upi_qr_code.png'
                 }]
             });
