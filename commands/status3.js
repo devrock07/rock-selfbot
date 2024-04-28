@@ -17,17 +17,17 @@ module.exports = {
                 {
                     name: 'Self Respect',
                     details: 'Self respect',
-                    largeImageURL: 'https://cdn.discordapp.com/attachments/1224719915345514626/1225089075590070313/icegif-257.gif?ex=661fdc1c&is=660d671c&hm=a06acea2779db64839aac4dd84ead36303fce061e3fc04ebe55037f051dfdf39&'
+                    largeImageURL: 'https://cdn.discordapp.com/attachments/1218882306475950204/1233074089778876467/pngimg.com_-_number1_PNG14889.png?ex=662bc53c&is=662a73bc&hm=fafb310a8226b5afe86286ae5959e3bb23287f9291793973c969c46296416d85&'
                 },
                 {
                     name: 'Self Improvement',
                     details: 'Self improvement',
-                    largeImageURL: 'https://cdn.discordapp.com/attachments/1224719915345514626/1225089223678496799/johan-liebert-nameless-monster.gif?ex=661fdc3f&is=660d673f&hm=1469de0cb96eb0d6211d2fdff6ccf97633924a9f780b60be55e4b23fa05489e4&'
+                    largeImageURL: 'https://cdn.discordapp.com/attachments/1218882306475950204/1233074090244440094/number-2-tm-photo-16.png?ex=662bc53c&is=662a73bc&hm=931e899b927203b1cf52080c872de42217ddd1543b8e051322b0db09fa16d74f&'
                 },
                 {
                     name: 'Proper Diet',
                     details: 'Proper diet',
-                    largeImageURL: 'https://cdn.discordapp.com/attachments/1224719915345514626/1225089361633083483/solo-leveling-loniyke.gif?ex=661fdc60&is=660d6760&hm=ef1febdb2afdba62ff0f6ac00d3c7526ff0456f891448e92ba27dd9a1750951d&'
+                    largeImageURL: 'https://cdn.discordapp.com/attachments/1218882306475950204/1233074090647224340/images_1.png?ex=662bc53c&is=662a73bc&hm=c4d084292296c819f07b9151af8533490849086838032573f7ac7c2f5dff1a15&'
                 }
             ];
 
@@ -35,7 +35,6 @@ module.exports = {
             const status = statuses[statusIndex];
 
             const r = new Discord.RichPresence()
-                .setApplicationId('1200725210656145479') // Keep this as it is
                 .setType('STREAMING')
                 .setURL('https://www.twitch.tv/zenithsenpai') // Change if needed
                 .setState(status.name)
